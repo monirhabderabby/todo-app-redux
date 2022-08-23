@@ -1,4 +1,5 @@
 import { Provider } from "react-redux";
+import CompletedTodoList from "./components/CompletedTodoList";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
@@ -17,6 +18,10 @@ function App() {
                     <hr className="mt-4" />
 
                     <TodoList />
+
+                    <hr className="mt-4" />
+
+                    <CompletedTodoList />
 
                     <hr className="mt-4" />
 

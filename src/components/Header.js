@@ -54,7 +54,7 @@ export default function Header() {
                     onClick={completeHadler}
                 >
                     <img className="w-4 h-4" src={tickImage} alt="Complete" />
-                    <span>Complete All Tasks</span>
+                    <span>Incomplete Tasks</span>
                 </li>
                 <li className="cursor-pointer" onClick={clearHeandler}>
                     Clear completed
