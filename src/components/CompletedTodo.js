@@ -6,7 +6,7 @@ import updateStatus from "../redux/todos/thunk/updateStatus";
 
 export default function CompletedTodo({ todo }) {
     const { text, id, completed } = todo;
-    const [context, setContext] = useState(text);
+    const [context, setContext] = useState("");
     const [openForEdit, setOpenForEdit] = useState(false);
     const dispatch = useDispatch();
 
@@ -63,7 +63,7 @@ export default function CompletedTodo({ todo }) {
                         completed && "line-through"
                     }`}
                 >
-                    {context}
+                    {text}
                     <div
                         className="mx-6 cursor-pointer"
                         onClick={() => setOpenForEdit(!openForEdit)}

@@ -12,7 +12,7 @@ const updateContext = (todoId, updateTodo) => {
             }),
         });
         const todo = await response.json();
-        dispatch(updateTodoText(todo.todoId, todo.text));
+        dispatch(updateTodoText(todoId, updateTodo));
     };
 };
 

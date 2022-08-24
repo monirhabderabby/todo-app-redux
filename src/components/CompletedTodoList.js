@@ -8,6 +8,8 @@ const CompletedTodoList = () => {
     const todos = useSelector((state) => state.todos);
     const dispatch = useDispatch();
 
+    console.log(todos);
+
     useEffect(() => {
         dispatch(fetchTodos);
     }, [dispatch]);
