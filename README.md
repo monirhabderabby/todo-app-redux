@@ -97,7 +97,7 @@ Please follow the below instructions to run server in your machine:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/monirhabderabby/
 [thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-monirhrabby.personal@gmail.com-lightgray
 [mail-url]: mailto:monirhrabby.personal@gmail.com
 [tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
 [htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
